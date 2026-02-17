@@ -1,6 +1,7 @@
-I love Post-Training, Agents & RL systems and research 
+My interests lie chiefly in the study of post-training methods, agentic systems, and reinforcement learning.
 
-Interests:
-- Large Scale Distributed Training
-- Agents, RL, Post-Training
-- Long Horizon Tasks
+Of late, my efforts have been directed toward:
+
+- training at considerable computational scale  
+- the development of agents and reinforcement-driven optimisation  
+- problems requiring persistence across long horizons
