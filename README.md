@@ -9,13 +9,13 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 [AgenticLS · NeurIPS 2026 workshop](https://agenticls.github.io/) · **Accepted spotlight**
 
-[Paper](https://github.com/stochi0/intervention-search-response-prediction/blob/main/paper.pdf) · [Code](https://github.com/stochi0/intervention-search-response-prediction)
+[Paper](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/intervention-search-response-prediction)
 
 ### [Budgeted Predictive Knowledge](https://latentpaths.com/projects/budgeted-predictive-knowledge)
 
 [NEmo · NeurIPS 2026 workshop](https://nemo.semantic.review/#accepted-papers) · **Accepted poster**
 
-[Paper](https://github.com/stochi0/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/stochi0/budgeted-predictive-knowledge)
+[Paper](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/budgeted-predictive-knowledge)
 
 ## Projects
 
@@ -26,7 +26,7 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Notes
 
-- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/stochi0/undertow)
-- [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/stochi0/sparse-signal-loop)
+- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/undertow)
+- [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/latentpaths/sparse-signal-loop)
 
 [Website](https://latentpaths.com/) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
