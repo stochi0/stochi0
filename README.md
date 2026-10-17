@@ -17,16 +17,16 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 [Paper](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/budgeted-predictive-knowledge)
 
+## Writing
+
+- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/undertow)
+- [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/latentpaths/sparse-signal-loop)
+
 ## Projects
 
 - [Yuntun](https://github.com/stochi0/yuntun) — Qwen3-style language modeling and tensor parallelism.
 - [BeaconGrad](https://github.com/stochi0/beacongrad) — NumPy autograd, checked against finite differences and PyTorch.
 - [Weigou](https://github.com/stochi0/weigou) — Distributed training experiments for LLaMA-style models.
 - [Expandable Subspace Ensemble](https://github.com/stochi0/expandable-subspace-ensemble-cil) — Class-incremental learning with adapter subspaces and prototypes.
-
-## Notes
-
-- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/undertow)
-- [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/latentpaths/sparse-signal-loop)
 
 [Website](https://latentpaths.com/) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
