@@ -3,18 +3,30 @@
 I like World Models, RL & AI for Science.
 Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
-## Research
+## Papers
 
-- [Intervention Search & Response Prediction](https://github.com/stochi0/intervention-search-response-prediction) — Measuring search success and held-out prediction separately under an assay budget.
-- [Budgeted Predictive Knowledge](https://github.com/stochi0/budgeted-predictive-knowledge) — Choosing which stored predictions should receive fresh evidence first.
-- [Undertow](https://github.com/stochi0/undertow) — Hidden, stateful tasks for comparing native and programmatic tool calling.
-- [Sparse Signal Loop](https://github.com/stochi0/sparse-signal-loop) — Experiments on feedback, working memory, and reusable skills for agents.
+### [Intervention Search & Response Prediction](https://latentpaths.com/projects/intervention-search-response-prediction)
 
-## Implementations
+[AgenticLS · NeurIPS 2026 workshop](https://agenticls.github.io/) · **Accepted spotlight**
+
+[Paper](https://github.com/stochi0/intervention-search-response-prediction/blob/main/paper.pdf) · [Code](https://github.com/stochi0/intervention-search-response-prediction)
+
+### [Budgeted Predictive Knowledge](https://latentpaths.com/projects/budgeted-predictive-knowledge)
+
+[NEmo · NeurIPS 2026 workshop](https://nemo.semantic.review/#accepted-papers) · **Accepted poster**
+
+[Paper](https://github.com/stochi0/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/stochi0/budgeted-predictive-knowledge)
+
+## Projects
 
 - [Yuntun](https://github.com/stochi0/yuntun) — Qwen3-style language modeling and tensor parallelism.
-- [BeaconGrad](https://github.com/stochi0/beacongrad) — NumPy autograd, gradient checks, and PyTorch comparisons.
+- [BeaconGrad](https://github.com/stochi0/beacongrad) — NumPy autograd, checked against finite differences and PyTorch.
 - [Weigou](https://github.com/stochi0/weigou) — Distributed training experiments for LLaMA-style models.
 - [Expandable Subspace Ensemble](https://github.com/stochi0/expandable-subspace-ensemble-cil) — Class-incremental learning with adapter subspaces and prototypes.
+
+## Notes
+
+- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/stochi0/undertow)
+- [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/stochi0/sparse-signal-loop)
 
 [Website](https://latentpaths.com/) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
