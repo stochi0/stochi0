@@ -17,7 +17,7 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 [Paper](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/budgeted-predictive-knowledge)
 
-## Writing
+## Writings
 
 - [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/undertow)
 - [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/latentpaths/sparse-signal-loop)
