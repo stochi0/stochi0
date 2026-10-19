@@ -5,17 +5,8 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Papers
 
-### [Intervention Search & Response Prediction](https://latentpaths.com/projects/intervention-search-response-prediction)
-
-[AgenticLS · NeurIPS 2026 workshop](https://agenticls.github.io/) · **Accepted spotlight**
-
-[Paper](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/intervention-search-response-prediction)
-
-### [Budgeted Predictive Knowledge](https://latentpaths.com/projects/budgeted-predictive-knowledge)
-
-[NEmo · NeurIPS 2026 workshop](https://nemo.semantic.review/#accepted-papers) · **Accepted poster**
-
-[Paper](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/budgeted-predictive-knowledge)
+- Intervention Search & Response Prediction — AgenticLS · NeurIPS 2026 workshop · Accepted spotlight. [Paper](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/intervention-search-response-prediction)
+- Budgeted Predictive Knowledge — NEmo · NeurIPS 2026 workshop · Accepted poster. [Paper](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) · [Code](https://github.com/latentpaths/budgeted-predictive-knowledge)
 
 ## Writings
 
