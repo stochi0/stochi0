@@ -1,4 +1,4 @@
-![ayush / stochi — a moon gate overlooking a mountain courtyard](assets/masthead.svg?v=17252c)
+![ayush / stochi — a moon gate overlooking a mountain courtyard](https://raw.githubusercontent.com/stochi0/stochi0/main/assets/masthead.svg)
 
 I like World Models, RL & AI for Science.
 Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
