@@ -10,7 +10,7 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Writings
 
-- [Undertow](https://latentpaths.com/writings/undertow) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/undertow)
+- [Statecraft](https://latentpaths.com/writings/statecraft) — Tool use in hidden, stateful environments. [Code](https://github.com/latentpaths/statecraft)
 - [Sparse Signal Loop](https://latentpaths.com/writings/sparse-signal-loop) — Experiments in sparse feedback and agent memory. [Code](https://github.com/latentpaths/sparse-signal-loop)
 
 ## Projects
