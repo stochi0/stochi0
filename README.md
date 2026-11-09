@@ -3,6 +3,8 @@
 I like World Models, RL & AI for Science.
 Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
+[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/publications) · [Writings](https://www.latentpaths.com/writings) · [Projects](https://www.latentpaths.com/projects) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
+
 <!-- BEGIN website projects -->
 ## Latest work
 
@@ -32,5 +34,3 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 - [Discrete Walk-Jump Sampling](https://github.com/stochi0/discrete-walk-jump-sampling) — Antibody generation with Langevin exploration and one-step denoising.
 - [Concrete Score Matching](https://github.com/stochi0/concrete-score-matching-discrete-data) — Discrete score learning with Metropolis–Hastings sampling.
 <!-- END website projects -->
-
-[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/publications) · [Writings](https://www.latentpaths.com/writings) · [Projects](https://www.latentpaths.com/projects) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
