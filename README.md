@@ -3,7 +3,7 @@
 I like World Models, RL & AI for Science.
 Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
-[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/publications) · [Writings](https://www.latentpaths.com/writings) · [Projects](https://www.latentpaths.com/projects) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
+[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/#papers) · [Writings](https://www.latentpaths.com/#notes) · [Projects](https://www.latentpaths.com/#projects) · [Email](mailto:ayush@latentpaths.com) · [X](https://x.com/stochi0)
 
 <!-- BEGIN website projects -->
 ## Latest work
