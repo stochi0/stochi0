@@ -14,8 +14,8 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Papers
 
-- [Intervention Search & Response Prediction](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight. [Code](https://github.com/latentpaths/intervention-search-response-prediction) · [OpenReview](https://openreview.net/forum?id=iHkXEsYah3) · [BibTeX](https://www.latentpaths.com/citations/paper/bodade2026intervention.bib)
-- [Budgeted Predictive Knowledge](https://github.com/stochi0/budgeted-predictive-knowledge/blob/main/paper.pdf) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster. [Code](https://github.com/stochi0/budgeted-predictive-knowledge) · [OpenReview](https://openreview.net/forum?id=gcFFvKU0DS) · [BibTeX](https://www.latentpaths.com/citations/paper/bodade2026budgeted.bib)
+- [Intervention Search & Response Prediction](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight. [Code](https://github.com/latentpaths/intervention-search-response-prediction)
+- [Budgeted Predictive Knowledge](https://github.com/stochi0/budgeted-predictive-knowledge/blob/main/paper.pdf) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster. [Code](https://github.com/stochi0/budgeted-predictive-knowledge)
 
 ## Writings
 
