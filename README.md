@@ -9,8 +9,8 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Papers
 
-- [Intervention Search & Response Prediction](https://doi.org/10.5281/zenodo.24196492) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
-- [Budgeted Predictive Knowledge](https://doi.org/10.5281/zenodo.24196447) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster.
+- [Intervention Search & Response Prediction](https://doi.org/10.5281/zenodo.24196492) — An agent found an intervention that worked. Could it predict what would happen with one it hadn’t tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
+- [Budgeted Predictive Knowledge](https://doi.org/10.5281/zenodo.24196447) — When the world changes and an agent can only recheck a few predictions, which should it check first? NEmo · NeurIPS 2026 workshop · Accepted poster.
 
 ## Writings
 
@@ -22,11 +22,11 @@ Previously an RL Resident at [Prime Intellect](https://www.primeintellect.ai/).
 
 ## Projects
 
-- [Yuntun](https://github.com/stochi0/yuntun) — Qwen3-style language modeling with tensor parallelism, trained on FineWeb.
-- [Weigou](https://github.com/stochi0/weigou) — Distributed training experiments for LLaMA-style language models.
-- [GPT-2 Speedrun](https://github.com/stochi0/gpt2-speedrun) — GPT-2 training with streaming FineWeb-Edu, checkpointing, and distributed data parallelism.
-- [BeaconGrad](https://github.com/stochi0/beacongrad) — NumPy autograd, checked against finite differences and PyTorch.
-- [Expandable Subspace Ensemble](https://github.com/stochi0/expandable-subspace-ensemble-cil) — Class-incremental learning with expanding subspaces, benchmarked on CIFAR-10.
+- [Yuntun](https://github.com/stochi0/yuntun) — I trained a Qwen3-style model on FineWeb using tensor parallelism.
+- [Weigou](https://github.com/stochi0/weigou) — I experimented with training LLaMA-style models across GPUs.
+- [GPT-2 Speedrun](https://github.com/stochi0/gpt2-speedrun) — Multi-GPU GPT-2 training with streamed FineWeb-Edu and resumable checkpoints.
+- [BeaconGrad](https://github.com/stochi0/beacongrad) — I wrote autograd in NumPy and checked its gradients against finite differences and PyTorch.
+- [Expandable Subspace Ensemble](https://github.com/stochi0/expandable-subspace-ensemble-cil) — I tested how a model learns new CIFAR-10 classes by expanding its feature space.
 - [Discrete Walk-Jump Sampling](https://github.com/stochi0/discrete-walk-jump-sampling) — Antibody generation with Langevin exploration and one-step denoising.
-- [Concrete Score Matching](https://github.com/stochi0/concrete-score-matching-discrete-data) — Discrete score learning with Metropolis–Hastings sampling.
+- [Concrete Score Matching](https://github.com/stochi0/concrete-score-matching-discrete-data) — I used score matching to learn from discrete data and Metropolis–Hastings to draw samples.
 <!-- END website projects -->
